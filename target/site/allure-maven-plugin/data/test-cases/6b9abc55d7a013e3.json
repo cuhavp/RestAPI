@@ -1,0 +1,170 @@
+{
+  "uid" : "6b9abc55d7a013e3",
+  "name" : "TC03",
+  "fullName" : "features.testng.TestNgSuite2.TC03",
+  "historyId" : "4ca1556c687336f21aba9ba225e12058",
+  "time" : {
+    "start" : 1527395290982,
+    "stop" : 1527395290983,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1527395290980,
+      "stop" : 1527395290980,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1527395290436,
+      "stop" : 1527395290436,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1527395290960,
+      "stop" : 1527395290960,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeSuite",
+    "time" : {
+      "start" : 1527395290416,
+      "stop" : 1527395290430,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1527395290984,
+      "stop" : 1527395290985,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1527395291008,
+      "stop" : 1527395291008,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1527395291007,
+      "stop" : 1527395291008,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterSuite",
+    "time" : {
+      "start" : 1527395291047,
+      "stop" : 1527395291047,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "features.testng.TestNgSuite2"
+  }, {
+    "name" : "testClass",
+    "value" : "features.testng.TestNgSuite2"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC03"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testng"
+  }, {
+    "name" : "suite",
+    "value" : "Suite 1"
+  }, {
+    "name" : "subSuite",
+    "value" : "features.testng.TestNgSuite2"
+  }, {
+    "name" : "host",
+    "value" : "HaDos-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "7944@HaDos-MacBook-Pro.local.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b59b62716100281d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1527393913770,
+        "stop" : 1527393913771,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="24" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testng" duration-ms="578" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:11Z">
+    <groups>
+    </groups>
+    <test name="Suite 1" duration-ms="578" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:11Z">
+      <class name="features.testng.TestNGSuite1">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeSuite" is-config="true" duration-ms="55" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@649f2009]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeClass" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC01" duration-ms="104" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC02" duration-ms="3" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC03" duration-ms="5" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC04()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC04" duration-ms="4" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC05()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC05" duration-ms="3" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC06()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="TC06" duration-ms="5" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:11Z" finished-at="2018-05-27T04:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:features.testng.TestNGSuite1@1522d8a0]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:11Z" finished-at="2018-05-27T04:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- features.testng.TestNGSuite1 -->
+      <class name="features.testng.TestNGSuite3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="TC01" duration-ms="4" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="TC02" duration-ms="3" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="TC03" duration-ms="3" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC04()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="TC04" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC05()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="TC05" duration-ms="3" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:features.testng.TestNGSuite3@312ab28e]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- features.testng.TestNGSuite3 -->
+      <class name="features.testng.TestNgSuite2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="TC01" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="TC02" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="TC03" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC04()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="TC04" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC05()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="TC05" duration-ms="2" started-at="2018-05-27T04:28:10Z" finished-at="2018-05-27T04:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterMethod" is-config="true" duration-ms="4" started-at="2018-05-27T04:28:11Z" finished-at="2018-05-27T04:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:features.testng.TestNgSuite2@5644dc81]" name="afterClass" is-config="true" duration-ms="2" started-at="2018-05-27T04:28:11Z" finished-at="2018-05-27T04:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- features.testng.TestNgSuite2 -->
+    </test> <!-- Suite 1 -->
+  </suite> <!-- testng -->
+</testng-results>

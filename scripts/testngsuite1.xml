@@ -1,0 +1,7 @@
+<suite name="testng">
+    <test name ="Suite 1">
+        <packages>
+            <package name="features.testng"></package>
+        </packages>
+    </test>
+</suite>

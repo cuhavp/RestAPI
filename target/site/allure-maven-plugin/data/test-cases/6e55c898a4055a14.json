@@ -1,0 +1,158 @@
+{
+  "uid" : "6e55c898a4055a14",
+  "name" : "TC01",
+  "fullName" : "features.testng.TestNGSuite3.TC01",
+  "historyId" : "e94a38806547682e75730a2721d1165b",
+  "time" : {
+    "start" : 1527393913711,
+    "stop" : 1527393913711,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1527393913695,
+      "stop" : 1527393913697,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1527393913698,
+      "stop" : 1527393913699,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1527393913282,
+      "stop" : 1527393913282,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeSuite",
+    "time" : {
+      "start" : 1527393913263,
+      "stop" : 1527393913276,
+      "duration" : 13
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1527393913749,
+      "stop" : 1527393913749,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1527393913713,
+      "stop" : 1527393913714,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1527393913817,
+      "stop" : 1527393913817,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "afterSuite",
+    "time" : {
+      "start" : 1527393913869,
+      "stop" : 1527393913870,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "features.testng.TestNGSuite3"
+  }, {
+    "name" : "testClass",
+    "value" : "features.testng.TestNGSuite3"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC01"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testng"
+  }, {
+    "name" : "suite",
+    "value" : "Suite 1"
+  }, {
+    "name" : "subSuite",
+    "value" : "features.testng.TestNGSuite3"
+  }, {
+    "name" : "host",
+    "value" : "HaDos-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1686@HaDos-MacBook-Pro.local.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}
