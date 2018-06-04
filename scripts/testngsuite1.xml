@@ -1,7 +1,8 @@
-<suite name="testng">
-    <test name ="Suite 1">
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Mock API Sample">
+    <test name ="Sample">
         <packages>
-            <package name="features.testng"></package>
+            <package name="features.mock"></package>
         </packages>
     </test>
 </suite>
