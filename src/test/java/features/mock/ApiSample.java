@@ -14,7 +14,6 @@ import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 
 public class ApiSample {
-    final String baseURI = "http://jsonplaceholder.typicode.com";
     private RequestSpecification spec;
 
     @BeforeClass
