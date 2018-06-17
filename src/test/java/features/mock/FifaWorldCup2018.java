@@ -2,6 +2,7 @@ package features.mock;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
+import org.apache.commons.lang3.StringUtils;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
@@ -29,6 +30,23 @@ public class FifaWorldCup2018 {
         List<Integer> a = response.jsonPath().get("rounds.matches[-6].num");
 
         Assert.assertEquals(a.get(a.size() - 1) == 48, true);
+    }
+
+    @Test
+    public void liveScore() {
+        List matches = response.jsonPath().get("rounds.matches");
+        System.out.format("%84s\n", StringUtils.center("**************************************", 84));
+        System.out.format("%84s\n", StringUtils.center("FIFA WORLD CUP 2018 RUSSIA", 84));
+        System.out.format("%84s\n", StringUtils.center("**************************************", 84));
+        for (int day = 0; day < matches.size(); day++) {
+            List<String> team1 = response.jsonPath().get(String.format("rounds.matches[%d].team1.name", day));
+            List<Integer> score1 = response.jsonPath().get(String.format("rounds.matches[%d].score1", day));
+            List<String> team2 = response.jsonPath().get(String.format("rounds.matches[%d].team2.name", day));
+            List<Integer> score2 = response.jsonPath().get(String.format("rounds.matches[%d].score2", day));
+            for (int i = 0; i < team1.size(); i++) {
+                System.out.format("%32s %10d : %-10d %-32s\n", team1.get(i), score1.get(i), score2.get(i), team2.get(i));
+            }
+        }
     }
 
     @Test
@@ -134,6 +152,7 @@ public class FifaWorldCup2018 {
         Assert.assertEquals(actual.toArray(), new String[]{stadium1, stadium2, stadium3, stadium4, stadium5, stadium6, stadium7, stadium8, stadium9, stadium10, stadium11, stadium12});
 
     }
+
 
     private Boolean isContains(ArrayList<String> array, String findItem) {
         Boolean isContains = false;
