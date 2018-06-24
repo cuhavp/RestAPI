@@ -56,7 +56,6 @@ public class FifaWorldCup2018 {
         for (List<String> matches : stadiums) {
             for (String stadium : matches) {
                 FF18Stadium.add(stadium);
-                System.out.println(stadium);
             }
         }
 

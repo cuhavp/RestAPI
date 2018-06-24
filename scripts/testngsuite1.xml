@@ -1,8 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="Mock API Sample">
-    <test name ="Sample">
-        <packages>
-            <package name="features.mock"></package>
-        </packages>
+    <test name="Sample">
+        <classes>
+            <class name="features.mock.FifaWorldCup2018"></class>
+        </classes>
     </test>
 </suite>
