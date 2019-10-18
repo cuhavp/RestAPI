@@ -72,7 +72,7 @@
                     </argLine>
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${test.suite}</suiteXmlFile>
+                        <suiteXmlFile>./scripts/testngsuite1.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
