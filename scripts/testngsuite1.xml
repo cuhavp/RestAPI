@@ -2,7 +2,7 @@
 <suite name="Mock API Sample">
     <test name="Sample">
         <classes>
-            <class name="features.mock.FifaWorldCup2018"></class>
+            <class name="features.mock.FootballTest"></class>
         </classes>
     </test>
 </suite>
